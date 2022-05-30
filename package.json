@@ -1,0 +1,7 @@
+{
+  "name": "@wcd/gayeta-aj.lwc-l3sr7qhk-fork-l3sr8pas",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve CdtjHwqysTv8u6FyZRfn --open"
+  }
+}
